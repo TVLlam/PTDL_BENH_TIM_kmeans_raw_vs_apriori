@@ -38,9 +38,9 @@ Do thuật toán Apriori yêu cầu dữ liệu dạng giao dịch (Category), q
 Đảm bảo file dữ liệu HeartDiseaseTrain-Test.csv nằm cùng thư mục với code.
 
 2.Chạy chương trình:
+ ```bash
+   ppython final_solution.py
 
-```bash
-python final_solution.py
 ## 5. Kết quả đầu ra
 Sau khi chạy, chương trình sẽ sinh ra các file:
 
