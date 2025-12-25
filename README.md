@@ -39,8 +39,7 @@ Do thuật toán Apriori yêu cầu dữ liệu dạng giao dịch (Category), q
 
 2.Chạy chương trình:
 
-Bash
-
+```bash
 python final_solution.py
 ## 5. Kết quả đầu ra
 Sau khi chạy, chương trình sẽ sinh ra các file:
